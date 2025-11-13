@@ -16,3 +16,6 @@ Armadillo, https://arma.sourceforge.net/, for matrix operations.
 mlpack, https://www.mlpack.org/index.html, for Spherical K-means Clustering
 
 
+
+https://github.com/user-attachments/assets/74b3401c-8c7c-4828-adab-82013f225d8b
+
